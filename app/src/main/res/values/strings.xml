@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PalNews</string>
+    <string name="logo">PAL-NEWS</string>
+    <string name="news">NEWS</string>
+    <string name="cat">CAT</string>
+    <string name="exit">EXIT</string>
+    <string name="cat_tips">Facts about cats</string>
+    <string name="Tip">GET A FACT</string>
+</resources>
